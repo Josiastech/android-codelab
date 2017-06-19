@@ -7,7 +7,7 @@
 /build
 /captures
 .externalNativeBuild
-
+.idea
 .gitignore
 82eeac2  on Feb 17
  Aleixo Sánchez Ignore dictionaries to reflect docs
